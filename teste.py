@@ -1,7 +1,7 @@
 
 
 def cifra_cesar(texto, modo):
-   alfabeto = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+   alfabeto = '1234567890'
    resultado = ''
  
    texto = texto.upper()
